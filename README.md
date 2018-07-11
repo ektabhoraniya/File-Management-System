@@ -7,8 +7,8 @@ The project includes basic features of the file system like
 1. Create file with specific permissions (Readonly, Read/Write, Execute)
 2. Delete file
 3. Write file
-a. Append
-b. Overwrite
+      a. Append
+      b. Overwrite
 4. Read file
 5. Change File permission
 6. Rename
